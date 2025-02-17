@@ -12,6 +12,11 @@
 
 - 📫 How to reach me: Here on Github you can follow me, and I am also on 
       LinkedIn: https://linkedin.com/in/michaelmelonas
+      Also, check out my repository for PowerShell! I hope it can help you out!
+      https://github.com/mmelonas/pwsh1
+
+      
+
 
 <!---
 mmelonas/mmelonas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
