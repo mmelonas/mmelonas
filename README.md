@@ -2,10 +2,10 @@
   
 - 👀 I’m interested in anything related to computers!
   
-- 🌱 I’m currently learning how to becomea DevOps Specialist.
+- 🌱 I’m currently learning how to become a DevOps Specialist.
       My background is mostly Operations (Ops), but I am learning
-      how to automate redundant tasks with programming in Bash,
-      Ansible, Python, C#, and PowerShell.
+      how to automate redundant tasks by programming in Bash,
+      Ansible, Python, C#, Golang, and PowerShell.
 
 - 💞️ I’m looking to collaborate on how to integrate technology solutions
       to solve real problems thereby enriching everyone in the process.
